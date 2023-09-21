@@ -56,3 +56,4 @@ scores = cosine_similarity(all_embeddings)
 scores
 
 plt.imshow(scores)
+plt.colorbar()
